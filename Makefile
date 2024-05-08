@@ -1,0 +1,2 @@
+gen:
+	@npx tsc
